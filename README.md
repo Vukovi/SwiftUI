@@ -11,3 +11,9 @@
 ### @AppStorage - pojednostavljen UserDefaults
 ### @State var someProperty - slicno mutating keyword-u jer su view-evi strukture
 ![restartApp](https://github.com/Vukovi/SwiftUI/blob/main/Screenshots/View%2C%20Animation%2C%20Gesture.jpg)
+
+## 03 Pinch App - SwiftUI gestures, SiftUI Materials, SF Symbols
+
+### pinch and zoom feature
+### drawer user interface
+![pinchApp](https://github.com/Vukovi/SwiftUI/blob/main/Screenshots/View%2C%20Animation%2C%20Gesture.jpg)
