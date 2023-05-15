@@ -2,7 +2,7 @@
 
 ## 01 Async Image - umesto Kingfisher ili umesto SDWebIamge
 
-jednostavan projekat koji pokazuje kako uraditi ekstenziju i manipulisati sa slikom, pozicijom, odzivom itd
+### jednostavan projekat koji pokazuje kako uraditi ekstenziju i manipulisati sa slikom, pozicijom, odzivom itd
 ![asyncImage](Screenshots/AsyncImage.jpg)
 
 ## 02 Restart App - izolovani view, organizacija view-eva, animacije, gesture-i,
