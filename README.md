@@ -10,4 +10,4 @@ jednostavan projekat koji pokazuje kako uraditi ekstenziju i manipulisati sa sli
 pozicioniranje view-eva, ZStack, VStack, HStack
 @AppStorage - pojednostavljen UserDefaults
 @State var someProperty - slicno mutating keyword-u jer su view-evi strukture
-![restartApp](Screenshots/AsyncImage.jpg)
+![restartApp](Screenshots/View, Animation, Gesture.jpg)
