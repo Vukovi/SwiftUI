@@ -16,4 +16,4 @@
 
 ### pinch and zoom feature
 ### drawer user interface
-![pinchApp](https://github.com/Vukovi/SwiftUI/blob/main/Screenshots/View%2C%20Animation%2C%20Gesture.jpg)
+![pinchApp](https://github.com/Vukovi/SwiftUI/blob/main/Screenshots/Screenshot%202023-05-22%20at%2014.00.24.png)
