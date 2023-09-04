@@ -18,4 +18,8 @@
 ### zoom gesture
 ### long tap gesture
 ### drawer user interface
+### .navigationViewStyle(.stack) -> onemugucava side bar na iPadu
+### neka View komponenta je zavrsena, npr HStack, a nisam planirao da radim sa ZStack-om
+###    da bih ostvario preklapanje sa jos nekim View-em, zato na kraju "donjeg" View-a dodam .overlay()
+###    npr HStack {...}.overlay(..razne druge View komponente..)
 ![pinchApp](https://github.com/Vukovi/SwiftUI/blob/main/Screenshots/Screenshot%202023-05-22%20at%2014.00.24.png)
